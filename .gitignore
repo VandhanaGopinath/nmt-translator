@@ -1,0 +1,11 @@
+# model weights are ~2.3 GB - never commit them (GitHub rejects files over 100 MB)
+outputs/
+*.pt
+*.safetensors
+*.bin
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

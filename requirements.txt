@@ -1,0 +1,8 @@
+torch
+transformers>=4.44
+datasets>=2.19
+sentencepiece
+protobuf
+sacrebleu>=2.4
+matplotlib
+streamlit>=1.35
